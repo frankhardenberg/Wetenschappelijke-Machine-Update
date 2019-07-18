@@ -1,0 +1,17 @@
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe.config
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\bin\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csprojResolveAssemblyReference.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\App.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine_MarkupCompile.lref
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Calculator.baml
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.g.resources
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke_Rekenmachine.Properties.Resources.resources
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.exe
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\Wetenschappelijke Rekenmachine.pdb
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\MemoryHistory.g.cs
+C:\Users\Frank\source\repos\Wetenschappelijke Rekenmachine\obj\Debug\MemoryHistory.baml
